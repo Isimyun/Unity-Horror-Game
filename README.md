@@ -75,3 +75,7 @@ cd unity-horror-game
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Suggestions and improvements are always welcome!
+
+## Demo
+
+[Watch the Demo on Vimeo](https://vimeo.com/1024819330)
